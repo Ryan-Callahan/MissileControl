@@ -1,0 +1,6 @@
+Missile Control is a remake of Missile Command, a classic Atari game where
+you shoot down falling bombs with your own missiles to stop them from destroying your cities.
+This version (so far) is infinite and has no penalty for not stopping the missiles, but when you
+shoot a rocket, you lose 10 points. You get 25 points for each missile you hit. To play, use the
+mouse to aim at the missiles. The rockets will fly towards the point you clicked and expand
+in an explosion. If a bomb hits the explosion, it will also explode.
